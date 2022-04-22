@@ -1,0 +1,17 @@
+{
+  "name": "modal",
+  "version": "1.0.1",
+  "authors": [
+    "Tran Khac Nam <nam19988991@gmail.com>"
+  ],
+  "description": "Nam đẹp trai vl",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/trankhacnam/modal.git",
+  "ignore": [
+    "README.md"
+  ]
+}
